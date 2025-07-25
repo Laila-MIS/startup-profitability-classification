@@ -10,8 +10,9 @@ This data mining project aims to predict the profitability of startups using cla
 - **Language & Tools:** Python, Jupyter Notebook, scikit-learn, matplotlib
 
 ## 📁 Dataset
-- **Source:** [Kaggle - Startup Growth and Funding Trends](https://www.kaggle.com/datasets/samayashar/startup-growth-and-funding-trends)
-- **Note:** You may need to download the CSV manually from the Kaggle link above.
+- **File:** `Startup_Database.csv`  
+- **Source:** Originally from [Kaggle Dataset](https://www.kaggle.com/datasets/samayashar/startup-growth-and-funding-trends)
+- **Note:** Included here for convenience. All rights remain with original publisher.
 
 ## 🔍 Project Sections
 1. **Data Loading**
