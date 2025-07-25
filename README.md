@@ -23,7 +23,7 @@ This data mining project aims to predict the profitability of startups using cla
 5. **Evaluation Metrics**
 6. **Feature Importance (Single Feature Testing)**
 
-## 📈 Results (Model 1)      ## 📈 Results (Model 2)
+## 📈 Results (Model 1)        📈 Results (Model 2)
 - Accuracy: 50.67%            - Accuracy: 56.00%
 - Precision: 47.76%           - Precision: 53.73%
 - Recall: 45.07%              - Recall: 50.70%
